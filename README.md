@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **my Front-End skills**
 
-- 🌱 I’m currently learning **jQuery, JavaScript, Java**
-
-- 👨‍💻 All of my projects are available at [https://ibhavikamalhotra.github.io/Portfolio/](https://ibhavikamalhotra.github.io/Portfolio/)
+- 🌱 I’m currently learning **jQuery, JavaScript**
 
 - ⚡ Fun fact **Me: Hey Bhagwaan ! Bhagwaan: Hey**
 
