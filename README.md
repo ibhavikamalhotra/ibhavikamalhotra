@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my Front-End skills**
 
-- 🌱 I’m currently learning **jQuery, JavaScript**
+- 🌱 I’m currently learning **jQuery, JavaScript, React**
 
 - ⚡ Fun fact **Me: Hey Bhagwaan ! Bhagwaan: Hey**
 
