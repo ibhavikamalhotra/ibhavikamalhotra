@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavika Malhotra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India!!</h3>
 
 - 🔭 I’m currently working on **my Front-End skills**
 
-- 🌱 I’m currently learning **jQuery, JavaScript, React**
+- 🌱 I’m currently learning **JavaScript, React**
 
 - ⚡ Fun fact **Me: Hey Bhagwaan ! Bhagwaan: Hey**
 
