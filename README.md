@@ -9,8 +9,9 @@
 
 - 👨‍💻 Connect with me:    <a href="https://www.linkedin.com/in/ibhavikamalhotra/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
-     </a> <a href="https://instagram.com/ibhavikamalhotra_"><img src="https://img.shields.io/badge/-Instagram-e75480?style=flat-square&logo=instagram&logoColor=white" /></a>
-  
+     </a>
+<!--      <a href="https://instagram.com/ibhavikamalhotra_"><img src="https://img.shields.io/badge/-Instagram-e75480?style=flat-square&logo=instagram&logoColor=white" /></a>
+   -->
 <!-- <img src="https://img.shields.io/badge/-Gmail-228B22?style=flat-square&logo=Gmail&logoColor=white" />  -->
 
 
