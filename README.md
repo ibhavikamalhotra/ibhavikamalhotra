@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Bhavika Malhotra</h2>
-<h4 align="center">A passionate Frontend Developer from India!!</h4>
+<h4 align="center">A passionate Front-End Developer from India!!</h4>
 
 - ⚡ I’m currently working on **my Front-End Skills**.
 
